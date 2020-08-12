@@ -1,0 +1,19 @@
+{
+  "name": "accomium-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbirTalukdar/accomium-backend.git"
+  },
+  "author": "Imtiaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbirTalukdar/accomium-backend/issues"
+  },
+  "homepage": "https://github.com/AbirTalukdar/accomium-backend#readme"
+}
